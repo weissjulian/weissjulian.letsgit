@@ -5,3 +5,4 @@ Bob Andrews ist der dritte Detektiv der drei Fragezeichen aus Rocky Beach. Er is
 * wohnt in Kalifornien
 * trägt eine Brille
 * fährt auto
+> Mit enem Auto
